@@ -1,6 +1,6 @@
 ### Olá, eu sou o Hauck 👋🏼
-#### Meu maior foco é no desenvolvimento de scripts para MTA:SA.
-##### Logo abaixo, poderá entrar no Discord da Hyper Scripts, clicando no botão "Discord".
+#### Sou CEO e Desenvolvedor, da empresa Hyper Scripts.
+##### Logo abaixo, encontrará o Discord de nossa loja. Para acessar, basta clicar no botão "Discord".
 
 [![Discord Hyper Scripts](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hyperscripts)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/luisintfpn)
@@ -18,4 +18,4 @@
 </div><br/>
 
 #### Caso queira realizar uma encomenda, entre em contato comigo no privado do meu Discord:
-##### Username: hauckfofo
+##### Username: hauckdev
