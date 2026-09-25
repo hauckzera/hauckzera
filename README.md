@@ -26,5 +26,8 @@ Atualmente, busco novas oportunidades para aplicar minha experiência em projeto
   <img aling = 'center' alt = 'html5' src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
 </div><br/>
 
-#### Caso queira realizar uma encomenda, entre em contato comigo no privado do meu Discord:
-##### Username: hauckdev
+## Fameworks
+
+<div style = 'display: inline_block'><br/>
+  <img aling = 'center' alt = 'html5' src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
+</div><br/>
