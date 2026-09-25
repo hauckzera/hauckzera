@@ -1,13 +1,22 @@
-### Olá, eu sou o Hauck 👋🏼
-#### Sou CEO e Desenvolvedor, da empresa Hyper Scripts.
-##### Logo abaixo, encontrará o Discord de nossa loja. Para acessar, basta clicar no botão "Discord".
+# Olá, eu sou o Hauck!
+#### O código transforma ideias em possibilidades, e a dedicação transforma possibilidades em resultados.
 
-[![Discord Hyper Scripts](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hyperscripts)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/luisintfpn)
+## Sobre mim
 
-![Hauck GitHub stats](https://github-readme-stats.vercel.app/api?username=hauckzera&show_icons=true&theme=radical)
+Desenvolvedor Full-Stack com mais de 5 anos de experiência na criação de soluções para jogos, servidores e aplicações web. Atualmente, sou CEO da Hyper Scripts, onde atuo diretamente no desenvolvimento de sistemas, scripts e soluções personalizadas.
 
-### Tecnologias desenvolvidas
+Minha trajetória na programação começou através do MTA:SA, desenvolvendo scripts e mods utilizando Lua. Foi nesse período que comecei a me interessar cada vez mais pela programação e a entender que queria seguir profissionalmente nessa área. Com o tempo, passei a explorar diferentes tecnologias e áreas do desenvolvimento, sempre buscando ampliar meus conhecimentos e melhorar a qualidade dos projetos em que trabalho.
+
+Entre as principais áreas em que atuo atualmente está o desenvolvimento para FiveM, plataforma na qual trabalho com criação, adaptação e manutenção de scripts, sistemas e recursos para servidores. Também continuo atuando com MTA:SA, mantendo uma forte experiência com desenvolvimento em Lua.
+
+Ao longo desses anos, tive contato com diferentes bases e frameworks, bancos de dados, APIs, sistemas web e integrações, além de trabalhar na identificação e correção de problemas em projetos já existentes. Também tenho experiência em analisar códigos de terceiros, adaptar sistemas para diferentes estruturas e desenvolver soluções de acordo com as necessidades específicas de cada servidor.
+
+Meu objetivo é continuar evoluindo como desenvolvedor e, principalmente, contribuir com projetos que buscam oferecer uma experiência diferenciada aos seus jogadores. Tenho facilidade para aprender novas tecnologias, entender estruturas já existentes e trabalhar na criação de soluções desde a ideia inicial até sua implementação.
+
+Atualmente, busco novas oportunidades para aplicar minha experiência em projetos de FiveM, contribuindo tanto no desenvolvimento de novos sistemas quanto na manutenção, otimização e evolução de estruturas já existentes.
+
+
+## Tecnologias desenvolvidas
 
 <div style = 'display: inline_block'><br/>
   <img aling = 'center' alt = 'html5' src = 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
